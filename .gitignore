@@ -1,0 +1,9 @@
+.DS_Store
+/.scannerwork
+/.ci
+/.idea
+/.vscode
+/.vagrant
+/vendor
+.env
+*.cache
